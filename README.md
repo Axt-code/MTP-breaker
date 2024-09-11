@@ -1,6 +1,7 @@
 ________________________________________________________________________
 File: main.py
 Description: Main decryption script.
+To run: python3 main.py
 
 Steps:
 1. Read ciphertexts from 'streamciphertexts.txt'.
@@ -27,6 +28,7 @@ Output:
 ________________________________________________________________________
 File: test.py
 Description: Testing script for decryption.
+To run: python3 test.py
 
 Steps:
 1. Read ciphertexts from 'streamciphertexts.txt'.
