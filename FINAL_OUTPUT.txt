@@ -1,0 +1,18 @@
+Message 1: encrypt, then MAC, is the correct order for secure authenticated encryption.
+Message 2: if this is coffee, please bring me some tea; but if this is tea, please bring me some coffee. Abraham Lincoln
+Message 3: the probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just. Abraham Lincoln.
+Message 4: any one who consider arithmetical methods of producing random digits, is of course, in a state of sin. John von Neumann.
+Message 5: we're seeing right now that a mass extinction can be caused by human beings. Elizabeth Kolbert.
+Message 6: at a job interview, tell them you're willing to give 110 perecent. Unless the job is a statistician.
+Message 7: never put off till tomorrow what you can do the day after tomorrow just as well.
+Message 8: when I was a kid, my parents moved a lot, but I always found them. Rod Dangerfield.
+Message 9: the cure for boredom is curiosity. There's no cure for curiosity. Dorothy Parker.
+Message 10: i'm killing time while I wait for life to shower me with meaning and happiness. Calvin and Hobbes.
+Message 11: i have memorized this utterly useless piece of information long enough to pass a test question. Calvin and Hobbes.
+Message 12: zero-knowledge interactive proof: whatever you could compute before you interacted with me and afterward are not different. Shafi Goldwasser.
+
+KEY Used:
+
+ASCII value: [233, 185, 116, 95, 158, 226, 145, 176, 149, 23, 140, 204, 45, 231, 176, 101, 78, 215, 188, 24, 228, 178, 49, 91, 248, 85, 134, 201, 35, 112, 251, 76, 229, 99, 123, 46, 13, 86, 138, 24, 104, 182, 20, 140, 91, 108, 195, 20, 160, 77, 185, 122, 20, 0, 165, 8, 237, 6, 34, 249, 24, 138, 187, 84, 56, 47, 199, 70, 224, 68, 166, 33, 110, 77, 21, 163, 50, 65, 137, 8, 18, 96, 134, 73, 104, 0, 210, 70, 2, 225, 201, 51, 158, 3, 230, 202, 193, 244, 165, 107, 84, 65, 171, 12, 172, 55, 117, 98, 192, 56, 144, 179, 58, 133, 80, 79, 36, 20, 13, 15, 21, 120, 177, 58, 50, 178, 202, 10, 209, 72, 4, 68, 139, 203, 217, 247, 19, 242, 33, 35]
+
+Hex value: e9b9745f9ee291b095178ccc2de7b0654ed7bc18e4b2315bf85586c92370fb4ce5637b2ed568a1868b6148c5b6cc314a04db97a140a58ed622f9188abb54382fc746e044a6216e4d15a3324189812608649680d2462e1c9339e3e6cac1f4a56b5441abcac377562c03890b33a85504f2414df1578b13a32b2caad1484448bcbd9f713f22123
